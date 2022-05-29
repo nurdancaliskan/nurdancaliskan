@@ -14,11 +14,8 @@
 </div>
 </td></tr></tbody></table>
 
-<p align="center"><a href="https://www.linkedin.com/in/nurdancaliskan/"><img width="100%" src="https://tranetech.com/wp-content/uploads/2021/02/app-tranetech.gif" /></a></p>
+<p align="center"><a href="https://www.linkedin.com/in/nurdancaliskan/"><img width="100%" src="https://media.giphy.com/media/euQwj7rclpdeD2Bd00/giphy.gif" /></a></p>
 
-<p>
-<code><img height= "400" src="https://media.giphy.com/media/euQwj7rclpdeD2Bd00/giphy.gif" alt="Gif1" /></code>
-</p>
  
 
 </a>Social</h2>
