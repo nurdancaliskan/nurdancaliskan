@@ -20,7 +20,7 @@
 <table align="center"><tbody align="center"><tr><td valign="top" align="center" width="100%">
 <div align="center">  
 <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/nurdancaliskan/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/LinkedIn_Logo_2013.svg/2560px-LinkedIn_Logo_2013.svg.png" alt="LinkedIn" height="25" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/LinkedIn_Logo_2013.svg/2560px-LinkedIn_Logo_2013.svg.png" style="max-width: 100%;"></a>  
-<a target="_blank" rel="noopener noreferrer" href="https://https://medium.com/@nurdancaliskan"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Medium_logo_Wordmark_Black.svg/1280px-Medium_logo_Wordmark_Black.svg.png" alt="Medium" height="25" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Medium_logo_Wordmark_Black.svg/1280px-Medium_logo_Wordmark_Black.svg.png" style="max-width: 100%;"></a>  
+<a target="_blank" rel="noopener noreferrer" href="https://medium.com/@nurdancaliskan"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Medium_logo_Wordmark_Black.svg/1280px-Medium_logo_Wordmark_Black.svg.png" alt="Medium" height="25" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Medium_logo_Wordmark_Black.svg/1280px-Medium_logo_Wordmark_Black.svg.png" style="max-width: 100%;"></a>  
  
 </div>
 </td></tr></tbody></table>
