@@ -14,7 +14,7 @@
 </div>
 </td></tr></tbody></table>
 
-<p align="center"><a href="https://www.linkedin.com/in/nurdancaliskan/"><img width="100%" src="https://media.giphy.com/media/euQwj7rclpdeD2Bd00/giphy.gif" /></a></p>
+<p align="center"><a href="https://www.linkedin.com/in/nurdancaliskan/"><img height="400" src="https://media.giphy.com/media/euQwj7rclpdeD2Bd00/giphy.gif" /></a></p>
 
  
 
