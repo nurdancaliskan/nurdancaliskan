@@ -15,7 +15,10 @@
 </div>
 </td></tr></tbody></table>
 
-<p align="center"><a href="https://www.linkedin.com/in/nurdancaliskan/"><img height="400" src="https://media.giphy.com/media/euQwj7rclpdeD2Bd00/giphy.gif" /></a></p>
+![Github stats 1](https://github-readme-stats.vercel.app/api?username=nurdancaliskan&show_icons=true&theme=gradient) 
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=nurdancaliskan&show_icons=true&theme=radical)
+
+
 
  
 
@@ -23,7 +26,7 @@
 <table align="center"><tbody align="center"><tr><td valign="top" align="center" width="100%">
 <div align="center">  
 <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/nurdancaliskan/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/LinkedIn_Logo_2013.svg/2560px-LinkedIn_Logo_2013.svg.png" alt="LinkedIn" height="25" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/LinkedIn_Logo_2013.svg/2560px-LinkedIn_Logo_2013.svg.png" style="max-width: 100%;"></a>  
-<a target="_blank" rel="noopener noreferrer" href="https://medium.com/@nurdancaliskan"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Medium_logo_Wordmark_Black.svg/1280px-Medium_logo_Wordmark_Black.svg.png" alt="Medium" height="25" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Medium_logo_Wordmark_Black.svg/1280px-Medium_logo_Wordmark_Black.svg.png" style="max-width: 100%;"></a>  
+<a target="_blank" rel="noopener noreferrer" href=https://medium.com/@nurdancaliskan><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Medium_logo_Wordmark_Black.svg/1280px-Medium_logo_Wordmark_Black.svg.png" alt="Medium" height="25" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Medium_logo_Wordmark_Black.svg/1280px-Medium_logo_Wordmark_Black.svg.png" style="max-width: 100%;"></a>  
 
 </div>
 </td></tr></tbody></table>
