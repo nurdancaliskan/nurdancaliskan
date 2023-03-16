@@ -1,6 +1,6 @@
 ### Hi there, I'm Nurdan Çalışkan 👋
 
-<h4 align="center"> Android Developer at @INTERTECH .</h4>
+<h4 align="center"> Android Developer at @INTERTECH/DENIZBANK .</h4>
 
 ## About me
 - I'm Computer Engineering Student at COMU
